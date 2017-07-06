@@ -1,0 +1,11 @@
+###############COMPILACAO##################
+O programa so compila em ambiente linux;
+
+Para compilar use o comando gcc *.c -o cliente -lpthread;
+
+###############EXECUCAO####################
+O programa so executa em ambiente linux;
+
+Antes de executar este programa, certifique-se que o programa servidor foi executado;
+
+Para executar use o comando ./cliente <porta que o servidor esta usando> <ip do servidor, obs.: usar os pontos>

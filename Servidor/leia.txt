@@ -1,0 +1,10 @@
+Para rodar o programa vocẽ deve compilar o mesmo da seguinte forma;
+
+1º gcc *.c -c ;
+
+2º gcc *.o -o (Aqui vai o nome do executável) -lpthread
+
+OBS.: Roda em sistema LINUX, pois utiliza bibliotecas deste SO.
+
+
+Para executar use o comando (./(nome do executavel) <porta>) caso nao seja informada a porta, por definicao sera usada a porta 7777
